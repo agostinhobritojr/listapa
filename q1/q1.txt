@@ -1,0 +1,5 @@
+Determine o valor das seguintes expressões:
+p == &i; // 1
+*p - *q; // 6
+**&p; // 8
+3 - *p/(*q) + 7; // 9
